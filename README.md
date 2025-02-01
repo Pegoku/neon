@@ -1,4 +1,4 @@
-# neon!
+# neon
 
 ![img](image.png)
 
